@@ -39,7 +39,7 @@ function scrollHeader(){
 window.addEventListener('scroll', scrollHeader)
 
 /*==================== SWIPER DISCOVER ====================*/
-let swiper = new Swiper(".discover__container", {
+ver Swiper = new Swiper(".discover__container", {
     effect: "coverflow",
     grabCursor: true,
     centeredSlides: true,
